@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+publish/
+
+# Runtime-generated icons
+Icons/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Logs and temp files
+*.log
+*.tmp
+output.txt
+build_error.txt
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store

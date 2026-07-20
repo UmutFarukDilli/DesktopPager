@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms> <!-- Required for NotifyIcon, ContextMenuStrip, and System.Drawing -->
+    <ApplicationIcon>app_icon.ico</ApplicationIcon>
+    
+    <!-- Single File Publishing Settings -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    
+    <!-- Assembly Info -->
+    <AssemblyName>DesktopPager</AssemblyName>
+    <RootNamespace>DesktopPager</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Uninstaller.cs" />
+    <None Remove="Uninstaller.csproj" />
+  </ItemGroup>
+</Project>
