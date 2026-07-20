@@ -34,6 +34,10 @@ https://www.youtube.com/watch?v=fRWqS3EL9pA
 
 > **Note:** Page data, settings, and logs are stored in `%USERPROFILE%\DesktopPager`.
 
+> [!WARNING]
+> 1. OneDrive desktop sync must be turned off.
+> 2. If you have **important** files in **your desktop**, put them another folder in your disk before the **First Launch or before the Uninstallation.**
+
 ## Usage
 
 ### UI
