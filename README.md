@@ -8,6 +8,17 @@ DesktopPager converts your Desktop folder into a directory junction that points 
 
 Your files live in `%USERPROFILE%\DesktopPager\Pages\PageN` and are always accessible even when the app is not running.
 
+VIDEO
+https://www.youtube.com/watch?v=fRWqS3EL9pA
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7fe6a67-37ad-4dd4-bf9e-34fa88a16ea0" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/611e4d87-01ed-4e70-88da-2998bed2c612" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55f90943-0e81-4176-a211-6a5c9f0c8f22" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07074997-9ef5-4464-8242-5fda03d93f7c" />
+
 ## Features
 
 *   **Unlimited pages** — create as many desktop pages as you need
